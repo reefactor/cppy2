@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# QtCreator cmake extra
+
+CMakeLists.txt.user
